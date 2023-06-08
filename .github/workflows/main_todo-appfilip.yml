@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'TODO-Appfilip'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B8DA8D2857834294B377B35886330F8D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2740F0CAF33249E794BCDA28EE301D34 }}
           package: .
